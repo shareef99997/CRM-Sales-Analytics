@@ -1,8 +1,8 @@
 # 📈 CRM Sales Analytics – Power BI Dashboard  
 📊 **End-to-End Power BI Project | Client Revenue | Deal Insights | Sales Performance**  
+🌐 **[🔗 View Live Dashboard (Power BI Web)](https://app.powerbi.com/view?r=eyJrIjoiYjZkZDUzZjctMmFlZS00Y2FhLTkwMzYtNDUwM2EyMmVlY2VmIiwidCI6IjY3NDM4ODYzLThjOTItNGQ0ZC1iMjAyLTIzNmZjMjNhZDk2MCIsImMiOjl9)**
 
 <img src="assets/screenshots/Client Overview.png" alt="Client Overview" width="800">
-🌐 **[🔗 View Live Dashboard (Power BI Web)](https://app.powerbi.com/view?r=eyJrIjoiYjZkZDUzZjctMmFlZS00Y2FhLTkwMzYtNDUwM2EyMmVlY2VmIiwidCI6IjY3NDM4ODYzLThjOTItNGQ0ZC1iMjAyLTIzNmZjMjNhZDk2MCIsImMiOjl9)**
 
 ---
 
